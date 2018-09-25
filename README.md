@@ -6,11 +6,12 @@ This repository will be used to host and colobrate on guides to help Returned DR
 
 This document (the README file) is a hub to give you some information about the project. 
 
-# What are we doing?
 
 # Who are Returned DREAMers?
 
 Returned DREAMers are those who lived in the United States and are now in Mexico because of deportation, the fear of deportation, the deportation of a family member, and/or other obstacles.
+
+# What are we doing
 
 ## The problem
 
@@ -20,7 +21,7 @@ Todo.
 
 Todo.
 
-## Who are we?
+# Who are we?
 
 @laurosilvacom
 @brendazam
