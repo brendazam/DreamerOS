@@ -23,6 +23,8 @@ Todo.
 
 # Who are we?
 
+- Todo
+
 @laurosilvacom
 @brendazam
 
