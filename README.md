@@ -1,5 +1,5 @@
 # DreamOS
-**Resources and community to reintegrate into Mexican society for returned DREAMers.** 🇺🇸🇲🇽
+**Resources and community to reintegrate into Mexican society for returned DREAMers.**🇽
 
 # Welcome
 
