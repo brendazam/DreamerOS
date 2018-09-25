@@ -23,7 +23,7 @@ Todo.
 
 # Who are we?
 
-- Todo
+Todo
 
 @laurosilvacom
 @brendazam
@@ -46,7 +46,7 @@ Thank you so much for visiting the project and we do hope that you'll join us on
 
 # Glossary
 
-- Todo
+Todo
 
 # Participation Guidelines
 
