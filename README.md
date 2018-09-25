@@ -16,20 +16,20 @@ Returned DREAMers are those who lived in the United States and are now in Mexico
 
 # What are we doing
 
+We're building online resources so those DREAMers who return to Mexico can have access to information that can make the integration to mexican society easier.
+
 ## The problem
 
-Todo
+There is not a lot or none information about facilities for DREAMers. When a DREAMer return to Mexico it's a change of life, it's a fresh start and they need assitance, but in Mexico doesn't exist information about how the DREAMers can integrate or reintegrate to mexican society. 
 
 ## The solution
 
-Todo
+A single point of content for Dreamers that have returned. Information about legal assitance, organizations dedicated to help them in Mexico and people, may be dreamers or not, around all Mexico that can help with advices and emotional support.
 
 # Who are we?
 
-Todo
-
-@laurosilvacom
-@brendazam
+@laurosilvacom 
+@brendazam I'm a Mexican woman learning frontend development. I studied Communication and I like to help people who want to be better, and want to make a possitive change in the world.
 
 
 # What do we need?
