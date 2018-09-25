@@ -15,11 +15,11 @@ Returned DREAMers are those who lived in the United States and are now in Mexico
 
 ## The problem
 
-Todo.
+Todo
 
 ## The solution
 
-Todo.
+Todo
 
 # Who are we?
 
