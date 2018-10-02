@@ -18,18 +18,17 @@ Returned DREAMers are those who lived in the United States and are now in Mexico
 
 ## The problem
 
-Todo
+Little to none accessible online resources for return Dreamers. There's not a guide, program or information in one single place to help returned dreamers in Mexico. Also,  there;s no online collaboration about applications, legal support, or any other papers or permission in Mexico for returned dreamers. 
+
 
 ## The solution
 
-Todo
+A website where dreamers can find all the information about legal applications, papers, legal mentoring, another dreamers or people avaiable to help, or share their stories, organizations and resources.
 
 # Who are we?
 
-Todo
-
 @laurosilvacom
-@brendazam
+Brenda Zambrano. @brendazam. I'm from Mexico, Puebla, I was borned and raised in Puebla. As a person who know dreamers only for a couple of years, I consider that it's important to create information, help, and resources to make the reintegration easier.
 
 
 # What do we need?
