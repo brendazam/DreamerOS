@@ -52,4 +52,4 @@ Todo
 
 # Participation Guidelines
 
-Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. DreamerOS adheres to a [code of conduct](https://github.com/laurosilvacom/DreamerOS/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to lauro@laurosilva.com.
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. DreamerOS adheres to a [code of conduct](https://github.com/laurosilvacom/DreamerOS/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to lauro@laurosilva.com or hi@brendazam.com
